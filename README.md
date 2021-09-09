@@ -1,5 +1,5 @@
 # Photo Repository Back-End Tech-Challenge
-![alt text](https://github.com/anserghazi/tech-challenge/blob/master/backend.png?raw=true)
+![alt text](https://github.com/anserghazi/backend-takehome/blob/master/backend.png?raw=true)
 
 ## Description
 
